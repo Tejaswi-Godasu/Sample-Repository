@@ -2,5 +2,7 @@
     <element label="Git Table" max_length="40" name="x_355232_gitrepapp_git_table" type="collection">
         <element label="column1" max_length="40" name="column1" type="string"/>
         <element label="column2" max_length="40" name="column2" type="string"/>
+        <element label="column4" max_length="40" name="column4" type="string"/>
+        <element label="column5" max_length="40" name="column5" type="string"/>
     </element>
 </database>
